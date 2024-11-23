@@ -1,0 +1,10 @@
+[package]
+name = "directory_compare"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3"
+rayon = "1.7"
+sha2 = "0.10"
+indicatif = "0.17"
